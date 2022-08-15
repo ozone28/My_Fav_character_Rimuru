@@ -3,7 +3,7 @@ body{
 	max-width: 1108px;
 	margin-left: 220px;
 	background-color: #84B0D9;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	background-position: center top;
 }
 h1 {
@@ -45,6 +45,9 @@ p{
 .font{
 	color: ghostwhite;
 	font-family: 'poor richard';
+}
+.inline-block{
+	margin-block-start: 80px;
 }
 .black{
 	background-color: yblack;

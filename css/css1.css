@@ -1,3 +1,25 @@
 body{
-	background-image: url('../img/bgi1.png') ;
+	background-color: #84B0D9;
+	background-repeat: no-repeat;
+	background-position: center top;
 }
+h1 {
+	font-size: 30px;
+	font-style: bold;
+}
+}
+.pfp{
+	
+}
+.inline{
+	display:inline-block;
+}
+.font{
+	font-family: 'poor richard';
+}
+.h2{
+	font-size: 20px;
+	font-style: bold;
+}
+.p{
+	font-size: 16px;
